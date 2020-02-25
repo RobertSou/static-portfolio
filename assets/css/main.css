@@ -1,0 +1,24 @@
+:root{
+    --lightGrey: #fafafa;
+}
+
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-size: 59.6%;
+    line-height: 1.2;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 1.6em;
+    background-color: var(--lightGrey);
+}
+
+h1 { font-size: 4.6em; }
+h2 { font-size: 3.6em; }
